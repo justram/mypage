@@ -1,11 +1,26 @@
 ---
-layout: page
+layout: default
 title: About Me
+description: I'm Jheng-Hong (Matt) Yang and I work on Information Retrieval and Natural Language Processing. More details inside!
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+![]({{site.baseurl}}/images/people/matt.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}
 
+<!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/lena-min.png';">
+<img src="/img/people/lena-min.png" name="readmore_1" width=204px height=240px></a> -->
 
+I am Jheng-Hong (Matt) Yang, a __Ph.D. student__ in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo. I'm very happy to be supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html).
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Previously, I was a __research assistant__ in the Research Center for Information Technology Innovation at Academia Sinica and worked in the Computational Finance and Data Analytics ([CFDA](https://cfda.csie.org)) Lab.
+
+## <span style="color:darkblue">News </span>
+
+* 08/2021 Our [TCT-ColBERT](https://aclanthology.org/2021.repl4nlp-1.17/) is accepted to [RepL4NLP workshop at ACL 2021](https://sites.google.com/view/repl4nlp-2021/home).
+* 07/2021 __4__ papers accepted to __SIGIR__ _2021_.
+* 12/2020 Our [multi-stage conversational IR](https://arxiv.org/abs/2005.02230) paper accepted to __ACM TOIS__.
+* 11/2020 Our [commonsense T5](https://aclanthology.org/2020.coling-main.307/) paper accepted to __COLING__ _2020_.
+* 10/2020 Top submission for __TREC__ _2020_ [CAsT](http://www.treccast.ai/) track.
+* 10/2019 Top submission for __TREC__ _2019_ [CAsT](http://www.treccast.ai/) track.
+* 07/2019 Summer intern at [NUS Credit Research Initiative](https://nuscri.org/en/)
+* 10/2018 Our [HOP-Rec](https://dl.acm.org/doi/abs/10.1145/3240323.3240381) got __best paper runner-up__ at __RecSys__ _2018_.
