@@ -18,7 +18,7 @@ Previously, I was a __research assistant__ in the Research Center for Informatio
 
 * 08/2021 Our [TCT-ColBERT](https://aclanthology.org/2021.repl4nlp-1.17/) is accepted to [RepL4NLP workshop at ACL 2021](https://sites.google.com/view/repl4nlp-2021/home).
 * 07/2021 __4__ papers accepted to __SIGIR__ _2021_.
-* 12/2020 Our [multi-stage conversational IR](https://arxiv.org/abs/2005.02230) paper accepted to __ACM TOIS__.
+* 12/2020 Our [multi-stage ConvIR](https://arxiv.org/abs/2005.02230) paper accepted to __ACM TOIS: Special Issue on Conversational Search and Recommendation__.
 * 11/2020 Our [commonsense T5](https://aclanthology.org/2020.coling-main.307/) paper accepted to __COLING__ _2020_.
 * 10/2020 Top submission for __TREC__ _2020_ [CAsT](http://www.treccast.ai/) track.
 * 10/2019 Top submission for __TREC__ _2019_ [CAsT](http://www.treccast.ai/) track.
