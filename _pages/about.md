@@ -16,7 +16,7 @@ I'm very happy to be supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca
 Previously, I was a __research assistant__ in the Research Center for Information Technology Innovation at Academia Sinica and worked in the Computational Finance and Data Analytics and Computational Linguistics and Information Processing ([CFDA & CLIP](https://cfda.csie.org)) Labs.
 During that time, I used to work on music recommender systems and time-series modeling for credit analysis.
 
-My motivation question is: how can we use technology such as machine learning for societal good? And I find joy in learning, helping others, and increasing humanity's efficiency.
+I find joy in learning, helping others, and increasing humanity's efficiency, and the question that motivates me is: how can we use technology such as machine learning for societal good?
 
 The best way to reach me is through my email: jheng-hong.yang [at] uwaterloo [dot] ca, and I am grateful for any positive or negative feedbacks.
 
