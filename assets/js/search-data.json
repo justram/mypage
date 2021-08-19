@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": ". I am Jheng-Hong (Matt) Yang, a Ph.D. student in the David R. Cheriton School of Computer Science at the University of Waterloo. I’m very happy to be supervised by Professor Jimmy Lin. . Previously, I was a research assistant in the Research Center for Information Technology Innovation at Academia Sinica and worked in the Computational Finance and Data Analytics (CFDA) Lab. . News . 08/2021 Our TCT-ColBERT is accepted to RepL4NLP workshop at ACL 2021. | 07/2021 4 papers accepted to SIGIR 2021. | 12/2020 Our multi-stage conversational IR paper accepted to ACM TOIS. | 11/2020 Our commonsense T5 paper accepted to COLING 2020. | 10/2020 Top submission for TREC 2020 CAsT track. | 10/2019 Top submission for TREC 2019 CAsT track. | 07/2019 Summer intern at NUS Credit Research Initiative | 10/2018 Our HOP-Rec got best paper runner-up at RecSys 2018. | .",
           "url": "https://justram.github.io/mypage/about/",
           "relUrl": "/about/",
           "date": ""
