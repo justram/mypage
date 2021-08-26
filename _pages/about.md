@@ -35,4 +35,4 @@ The best way to reach me is through my email: jheng-hong.yang [at] uwaterloo [do
 
 ## <span style="color:darkblue">Publications </span>
 
-[Google Scholar](https://scholar.google.com/citations?user=hwcS7X0AAAAJ&hl=zh-TW)
+[Google Scholar](https://scholar.google.com/citations?user=hwcS7X0AAAAJ)
