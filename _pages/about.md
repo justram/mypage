@@ -22,6 +22,7 @@ The best way to reach me is through my email: jheng-hong.yang [at] uwaterloo [do
 
 ## <span style="color:darkblue">News </span>
 
+* 08/2021 __1__ paper accepted to __EMNLP__ _2021_.
 * 08/2021 Our [TCT-ColBERT](https://aclanthology.org/2021.repl4nlp-1.17/) is accepted to [RepL4NLP workshop at ACL 2021](https://sites.google.com/view/repl4nlp-2021/home).
 * 07/2021 __4__ papers accepted to __SIGIR__ _2021_.
 * 12/2020 Our [multi-stage ConvIR](https://arxiv.org/abs/2005.02230) paper accepted to __ACM TOIS: Special Issue on Conversational Search and Recommendation__.
@@ -30,3 +31,8 @@ The best way to reach me is through my email: jheng-hong.yang [at] uwaterloo [do
 * 10/2019 Top submission for __TREC__ _2019_ [CAsT](http://www.treccast.ai/) track.
 * 07/2019 Summer intern at [NUS Credit Research Initiative](https://nuscri.org/en/)
 * 10/2018 Our [HOP-Rec](https://dl.acm.org/doi/abs/10.1145/3240323.3240381) got __best paper runner-up__ at __RecSys__ _2018_.
+
+
+## <span style="color:darkblue">Publications </span>
+
+[Google Scholar](https://scholar.google.com/citations?user=hwcS7X0AAAAJ&hl=zh-TW)
