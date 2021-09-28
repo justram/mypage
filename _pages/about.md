@@ -10,7 +10,8 @@ permalink: /about/
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/lena-min.png';">
 <img src="/img/people/lena-min.png" name="readmore_1" width=204px height=240px></a> -->
 
-I am Jheng-Hong (Matt) Yang, a __Ph.D. student__ in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo.
+I am Jheng-Hong (Matt) Yang ([CV]({{site.baseurl}}/images/CV_JHYang.pdf))
+, a __Ph.D. student__ in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo.
 I'm very happy to be supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html).
 
 Previously, I was a __research assistant__ in the Research Center for Information Technology Innovation at Academia Sinica and worked in the Computational Finance and Data Analytics and Computational Linguistics and Information Processing ([CFDA & CLIP](https://cfda.csie.org)) Labs.
@@ -36,3 +37,4 @@ The best way to reach me is through my email: jheng-hong.yang [at] uwaterloo [do
 ## <span style="color:darkblue">Publications </span>
 
 [Google Scholar](https://scholar.google.com/citations?user=hwcS7X0AAAAJ)
+
